@@ -1,3 +1,8 @@
+## Welcome to FormulaGo!
+
+FormulaGo is an app designed to help students so that they can have a multitude of formulas ready for them at their fingertips. Formulas will range from basic mathatical formulas to complex Calculus ones! With FormulaGo you can search for a formula and it will display the formula you want along with what each variable is for. Or you can have a list of all the formulas be shown and then select the desired formula from there.
+**********************************************************************
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jyork63/my-Final-App/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
