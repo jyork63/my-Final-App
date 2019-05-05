@@ -19,7 +19,7 @@ FormulaGo is an app designed to help students so that they can have a multitude 
 
 [Repl.it Code](https://repl.it/@JoshuaYork1/Final-App-FormulaGo): link to the code
 
-[Formulas](https://github.com/jyork63/my-Final-App/blob/master/FormulaNames.txt): link to the formula names file.
+[Formulas](https://github.com/jyork63/my-Final-App/blob/master/FormulaNames.txt): link to the formula names file
 
 
 
