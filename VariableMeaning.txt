@@ -1,0 +1,31 @@
+pi = pi, r = radius
+pi = pi, r1 = radius 1, r2 = radius 2
+a = side length for 1 side
+b = base, h = height
+a = side 1, b = side 2
+h = height, b1 = base 1, b2 = base 2
+b = base, h = height
+P = future value, C = initial deposit, r = interest rate, n = # of times per year interest is compounded, t = number of years invested
+P = furture value, C = intital deposit, r = interest rate, t = number of years invested, e = the mathmatical constant e
+x = any real number, n = any real number in the expontent
+a = first variable, b = second variable
+k = growth rate, T = doubling time, ln = natural log
+k = decay rate, T = half-life, ln = natural log
+b = subscript base, x = and real number greater than 1, y = answer
+a = first variable, b = second variable
+a = side one, b = side 2, c = hypotenuse 
+a = first variable (highest degree) b = second variable (lowest degree), c = constant
+a = first variable, b = second variable
+a = side 1
+pi = pi, r = radius, h = height
+L = length
+a = side 1, b = side 2, c = side 3
+pi = pi, r = radius
+pi = pi, r = radius, h = height
+a = side 1
+pi = pi, r = radius, h = height
+pi = pi, r1 = radius 1, r2 = radius 2, r3 = radius 3
+pi = pi, r = radius, h = height
+b = base, h = height
+l = length, w = width, h = height
+pi = pi, r = radius
