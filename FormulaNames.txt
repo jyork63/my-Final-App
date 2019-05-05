@@ -1,0 +1,31 @@
+area of a circle
+area of a ellipse
+area of a equilateral triangle
+area of a parallelogram
+area of a rectangle (or square)
+area of a trapezoid
+area of a triangle
+compund interest
+continuous interest
+derivative
+difference of squares
+doubling time
+half-life
+logarithms
+polynomials
+pythagorean's theorem
+quadratic formula
+sum and difference of cubes
+surface area of a cube
+surface area of a cylinder
+surface area of any prism
+surface area of a rectangular prism
+surface area of a sphere
+volume of a cone
+volume of a cube
+volume of a cylinder
+volume of a ellipsoid
+volume of a irregular Prism
+volume of a pyramid
+volume of a rectangular Prism
+volume of a sphere
